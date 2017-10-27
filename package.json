@@ -1,0 +1,19 @@
+{
+  "name": "samcommand",
+  "version": "1.0.0",
+  "description": "SamuelBot for Discord.js Commando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwesomenessPrimal/SamCommand.git"
+  },
+  "author": "Primal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwesomenessPrimal/SamCommand/issues"
+  },
+  "homepage": "https://github.com/AwesomenessPrimal/SamCommand#readme"
+}
